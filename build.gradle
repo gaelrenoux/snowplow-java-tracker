@@ -30,7 +30,7 @@ apply plugin: 'propdeps-maven'
 apply plugin: 'propdeps-idea'
 
 group = 'com.snowplowanalytics'
-version = '0.9.1-makazi'
+version = '0.9.2-makazi'
 sourceCompatibility = '1.7'
 targetCompatibility = '1.7'
 

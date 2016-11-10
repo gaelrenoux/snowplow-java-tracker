@@ -438,7 +438,7 @@ public class TrackerTest {
     @Test
     public void testGetTrackerVersion() throws Exception {
         Tracker tracker = new Tracker.TrackerBuilder(emitter, "namespace", "an-app-id").build();
-        assertEquals("java-0.9.1-makazi", tracker.getTrackerVersion());
+        assertEquals("java-0.9.2-makazi", tracker.getTrackerVersion());
     }
 
     @Test
